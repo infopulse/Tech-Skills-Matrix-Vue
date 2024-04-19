@@ -41,7 +41,7 @@ It is good to measure the skills using the matrix, but it is even better to have
 and gain new knowledge.
 
 - [The roadmap](roadmap/roadmap.md) _⚠️ Currently under development_
-- Checkout this roadmap as possible reference: https://roadmap.sh/frontend
+- Checkout this roadmap as possible reference: https://roadmap.sh/vue
 
 ## How to contribute?
 
